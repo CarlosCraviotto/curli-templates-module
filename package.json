@@ -54,7 +54,7 @@
   "dependencies": {
     "curli-types": "0.0.1-beta.11",
     "file-list-loader": "0.0.1-beta.1",
-    "handlebars": "4.7.6"
+    "handlebars": "4.7.7"
   },
   "devDependencies": {
     "@types/sinon": "9.0.0",
